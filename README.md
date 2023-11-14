@@ -1,2 +1,2 @@
 # RestaurantManagementSystem
-final project!!!!
+A sample of final project
